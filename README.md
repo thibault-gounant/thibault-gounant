@@ -1,0 +1,21 @@
+# :smile: About me
+
+:wave: Hi there!
+
+:computer: I'm a French full-stack developer, apprenticing as a software engineer.
+
+:seedling: Currently learning data engineering and artificial intelligence.
+
+:heart: Passionate about algorithm optimization, problem-solving and making things work automagically.
+
+:dart: I wish to know more about Rust and cloud computing.
+
+:book: The Art of Computer Programming, by Donald Knuth
+
+<br>
+
+# :mailbox: Contact
+
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzQgMTAwIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNOS4wOSAxMDBoMjEuMjEzVjQ4LjQ4NUwwIDI1Ljc1OHY2NS4xNTFBOS4wOSA5LjA5IDAgMCAwIDkuMDkgMTAwbTkzLjk0IDBoMjEuMjEyYTkuMDkgOS4wOSAwIDAgMCA5LjA5MS05LjA5VjI1Ljc1N0wxMDMuMDMgNDguNDg1Ii8+PHBhdGggZD0iTTEwMy4wMyA5LjA5djM5LjM5NWwzMC4zMDMtMjIuNzI3VjEzLjYzNmMwLTExLjI0Mi0xMi44MzMtMTcuNjUxLTIxLjgxOC0xMC45MDlNMzAuMzAzIDQ4LjQ4NVY5LjA5bDM2LjM2NCAyNy4yNzNMMTAzLjAzIDkuMDl2MzkuMzk0TDY2LjY2NyA3NS43NThNMCAxMy42MzZ2MTIuMTIybDMwLjMwMyAyMi43MjdWOS4wOWwtOC40ODUtNi4zNjRDMTIuODE4LTQuMDE1IDAgMi4zOTQgMCAxMy42MzciLz48L3N2Zz4="/>](mailto:gounant.thibault@gmail.com) [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ijk2IDk2IDQ0OCA0NDgiIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Ik01MTIgOTZIMTI3LjlDMTEwLjMgOTYgOTYgMTEwLjUgOTYgMTI4LjN2MzgzLjRjMCAxNy44IDE0LjMgMzIuMyAzMS45IDMyLjNINTEyYzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWMTI4LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zTTIzMS40IDQ4MEgxNjVWMjY2LjJoNjYuNVY0ODB6bS0zMy4yLTMyMGMyMS4zIDAgMzguNSAxNy4yIDM4LjUgMzguNVMyMTkuNSAyMzcgMTk4LjIgMjM3cy0zOC41LTE3LjItMzguNS0zOC41IDE3LjItMzguNSAzOC41LTM4LjVtMjgyLjEgMzIwaC02Ni40VjM3NmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQ4MGgtNjYuNFYyNjYuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjl6Ii8+PC9zdmc+"/>](https://www.linkedin.com/in/thibault-gounant/)
+
+<br>
